@@ -1,3 +1,8 @@
+/* Version iterativa de fibonacci
+Parte de nuestro curso de C */
+
+/* n: es el enesimo nùmero de la serie 
+Retorno: correspendiente entero de la serie */
 int fibonacci(int n)
 {
         int x, y, z;
