@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int fibonacci(int n);
+#include "fibonacci.h"
 
 int main(int argc, char **argv)
 {
